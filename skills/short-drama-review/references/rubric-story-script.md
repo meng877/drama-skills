@@ -1,5 +1,7 @@
 # Story And Script Rubric
 
+> 适用范围：系列引擎、分集交接、钩子配额与短剧节奏候选只适用于连续剧。单篇微电影先执行本技能的[微电影工作法](microfilm.md)；无已接受节奏档案时不套用默认数值。
+
 ## 目录
 
 - [Promise](#story-promise-and-engine)
@@ -250,6 +252,8 @@ are measured in the [visual rubric](rubric-visual-motion.md#rhythm-profile-shots
 
 ## Local passes (`REV-13`)
 
+For a standalone microfilm, replace the opening-hook and reversal-density passes below with: does the opening establish a meaningful viewpoint, place, relationship or question; and does the middle develop action, understanding or emotion toward the promised ending? Silence and observation are not defects by duration alone. The numbered hook/density passes below are for serialized drama. Ending checks apply to both forms under their own viewing contract.
+
 After the whole-episode read, run three passes that each read one part only, so each
 segment is assessed on what it delivers at that point.
 
@@ -271,7 +275,7 @@ segment is assessed on what it delivers at that point.
    location and the person driving or suffering it; flag long stretches with no
    touchpoint and reversals bunched at the end.
 
-Each finding cites its own segment. The passes apply with or without a profile; only
+Each finding cites its own segment. These serialized-drama passes apply with or without a profile; only
 the numeric comparisons need one.
 
 ## Replaceable realization (`SCR-10`)

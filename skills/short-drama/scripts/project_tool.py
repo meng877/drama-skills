@@ -407,7 +407,7 @@ def initialize_project(
     project.update(
         {
             "project_id": f"SD-{uuid.uuid4().hex[:12].upper()}",
-            "title": title.strip() or "未命名短剧",
+            "title": title.strip() or "未命名微电影",
             "language": language,
             "created_at": utc_now(),
         }
@@ -2411,7 +2411,7 @@ def build_parser() -> argparse.ArgumentParser:
     init.add_argument("--title", required=True)
     init.add_argument("--language", default="zh-CN")
     init.add_argument("--prompt-language", default=DEFAULT_PROMPT_LANGUAGE)
-    init.add_argument("--aspect-ratio", default="9:16")
+    init.add_argument("--aspect-ratio", default="16:9")
     init.add_argument("--episode-count", type=int)
     init.add_argument("--target-seconds", type=float, dest="target_seconds_per_episode")
 
