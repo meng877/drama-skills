@@ -47,6 +47,7 @@ LOCK_DECLARATION = (
 )
 EXPECTED_KNOWHOW = {
     "short-drama": {
+        "microfilm.md",
         "audience-reveal.md",
         "contract-and-ownership.md",
         "creator-documents.md",
@@ -59,6 +60,7 @@ EXPECTED_KNOWHOW = {
         "runtime-preflight.md",
     },
     "short-drama-write": {
+        "microfilm.md",
         "dialogue-craft.md",
         "production-format-dialect.md",
         "scene-handoff-capsule.md",
@@ -69,6 +71,7 @@ EXPECTED_KNOWHOW = {
         "substitutable-realization.md",
     },
     "short-drama-assets": {
+        "microfilm.md",
         "asset-review-checklist.md",
         "character-and-look.md",
         "continuity-delta.md",
@@ -82,6 +85,7 @@ EXPECTED_KNOWHOW = {
         "voice-direction.md",
     },
     "short-drama-image-prompts": {
+        "microfilm.md",
         "character-and-look.md",
         "common-recipe.md",
         "edit-and-revision.md",
@@ -94,6 +98,7 @@ EXPECTED_KNOWHOW = {
         "stage-contract.md",
     },
     "short-drama-storyboard": {
+        "microfilm.md",
         "blocking-playbooks.md",
         "comic-keyframe-lexicon.md",
         "coverage-audition.md",
@@ -108,6 +113,7 @@ EXPECTED_KNOWHOW = {
         "stage-contract.md",
     },
     "short-drama-video-prompts": {
+        "microfilm.md",
         "camera-audio-continuity.md",
         "delivery-profile.md",
         "generability.md",
@@ -123,6 +129,7 @@ EXPECTED_KNOWHOW = {
         "wan-3.0.md",
     },
     "short-drama-review": {
+        "microfilm.md",
         "anti-template-repair.md",
         "production-quality-gates.md",
         "project-calibration.md",

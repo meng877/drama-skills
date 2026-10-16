@@ -1,6 +1,6 @@
 # AGENTS.md
 
-短剧技能套件：一组把小说或创意做成短剧、漫剧的 agent skill，覆盖拆原著、写剧本、视觉设定、
+AI 微电影优先技能套件：一组把小说或创意做成完整微电影、并兼容短剧和漫剧的 agent skill，覆盖拆原著、写剧本、视觉设定、
 分镜、图片与视频提示词、生产、剪辑、审查和本地创作台（Dashboard）。本文件是 agent 改这个
 仓库时的约定；细则与理由见 [CONTRIBUTING.md](CONTRIBUTING.md)、[DESIGN.md](DESIGN.md) 和
 `.agents/notes/`。
